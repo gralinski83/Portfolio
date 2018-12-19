@@ -122,6 +122,7 @@ body {
 }
 .text {
   color: #fff;
+  font-family: 'VCR_OSD_MONO';
   font-weight: 200;
   text-align: center;
 }
@@ -381,7 +382,9 @@ a:hover .fa-linkedin,
 a:hover .fa-twitter,
 a:hover .fa-youtube,
 a:hover .fa-facebook-square,
-a:hover .fa-bitcoin{
+a:hover .fa-bitcoin
+a:hover
+{
   text-decoration: none;
   color: #ff0095;
   cursor: url("images/cursor.png"), default;
@@ -610,7 +613,7 @@ color: red;
 .techbackground-vid {
   width: 130vw;
   height: 100vh;
-  background-image: url("https://media.giphy.com/media/3oz8xFufV5l6G4ZNWo/giphy.gif");
+  background-image: url("https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif");
   position: absolute;
   z-index: -9999;
   background-size: cover;
