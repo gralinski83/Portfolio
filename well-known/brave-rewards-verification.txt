@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pixelsupplier.com
+Token: 9e7601a66f9f2dd7bc67180706997748c77025789b5f5c85bc1cbf334f97cebb
