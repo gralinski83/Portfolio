@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gralinski83
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pixelsupplier.com
+  * I am gralinski83 (https://keybase.io/gralinski83) on keybase.
+  * I have a public key ASDvO2AxUkKdwZOQvRDLgTjaPeU5JuLZVLKXDQBqbRUsrQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202fa3a134212d9ac8e2e297768eaa7a15769448e370bb9f3c0f54776d174522e00a",
+      "host": "keybase.io",
+      "kid": "0120ef3b603152429dc19390bd10cb8138da3de53926e2d954b2970d006a6d152cad0a",
+      "uid": "1de119847ac7ce9f64c4670f1e95f519",
+      "username": "gralinski83"
+    },
+    "merkle_root": {
+      "ctime": 1568146336,
+      "hash": "def27843331f9f1c44196269289b7cc1958adb419c83395a42dd33dc9558f244f0109fc8f01fbdb79b092294e16205fea8aa21f36ff5c6ddc1bca01b129b5a21",
+      "hash_meta": "6a6c9a5165c3739c2ef25e21b868e9c2a0fb3f901c0d06c77fd611cb5d24876f",
+      "seqno": 6511820
+    },
+    "service": {
+      "entropy": "Fjjly9wR75p4Zu8FuVH6V+pP",
+      "hostname": "pixelsupplier.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568146352,
+  "expire_in": 504576000,
+  "prev": "b28e79f29b397aaa145fd174cb72193cef42b0d12ad15c9220f2065c55a3aede",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7ztgMVJCncGTkL0Qy4E42j3lOSbi2VSylw0Aam0VLK0Kp3BheWxvYWTESpcCFMQgso558ps5eqoUX9F0y3IZPO9CsNEq0VySIPIGXFWjrt7EIFBW1jFprS02JfPzvyQgduR5/QrhxZ7NTFJYNT+qesJWAgHCo3NpZ8RA+GU9NiCUu4X3Fu1XAqOpZAz+QQXO6w6GzhsXcYs0sdRVuOWB/DqklXfss+n8bwKn0RAMVApNf2c3I6X8QM+RDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE0GzOHM5y6SP5sYlZQGHxL81jb+kdVqWpxoMm364Mbto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gralinski83
+
+==================================================================
